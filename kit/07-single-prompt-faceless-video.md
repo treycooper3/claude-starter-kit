@@ -52,7 +52,7 @@ Project/
 
 ## Make it yours
 
-- Swap the **style block in Step 5** to match your channel. For The Wealth Appetite, replace the stickman style with the marker-doodle look (green bowl, bitten coin), keep the rest.
+- Swap the **style block in Step 5** to match your channel's own locked look, and pass a **character reference image** on every generation so your character stays consistent across scenes (the single biggest weakness of pure text-to-image).
 - Keep your **own voiceover** on top. The pipeline builds the visuals and package; your voice keeps it on-brand and demonetization-safe.
 
 ---
